@@ -3,7 +3,7 @@
 
 
 
-***This is a simple application that uses Google API's to convert speech into a text and then displays it at the Center of screen.***
+***This is a simple application that uses Google's API to convert speech into a text and then displays it at the Center of screen.***
 
 
 
