@@ -20,4 +20,4 @@ of text which is displayed at the center of the screen.
 ## How is this Useful ?
 
 This app shows how  speech recognition can be used in an android application.
-this idea can be used to implement applications that fill out Web forms which wouldd be very helpful especially for the disabled people.
+this idea can be used to implement applications that fill out Web forms which would be very helpful especially for the disabled people.
